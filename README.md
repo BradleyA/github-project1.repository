@@ -1,4 +1,4 @@
-# %W% %G% %U%
+WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
 The build process looks for a README.md in the same directory as your Dockerfile.
 If you have a README.md file in your repository, it is used in the repository as 
