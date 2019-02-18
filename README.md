@@ -25,6 +25,20 @@ Details screen. The banner at the top of the page displays the last sentence of
 the log file indicating what the error was. If you need more information, scroll 
 to the bottom of the screen to the logs section.
 
+#### Author
+[<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
+](https://twitter.com/bradleyaustintx/)   [<img id="github" src="images/github.png" width="50" a="https://github.com/BradleyA/">
+](https://github.com/BradleyA/)    [<img src="images/linkedin.png" style="max-width:100%;" >](https://www.linkedin.com/in/bradleyhallen)
+
+#### System OS script tested
+ * Ubuntu 14.04.3 LTS
+ * Ubuntu 16.04.5 LTS (armv7l)
+
+#### Design Principles
+ * Have a simple setup process and a minimal learning curve
+ * Be usable as non-root
+ * Be easy to install and configure
+
 ## License
 MIT License
 
