@@ -1,7 +1,10 @@
+# Automated build from GitHub code to Docker image 
+
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
 
 I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
 
+Docker Hub account:  allup2u72
 
 The build process looks for a README.md in the same directory as your Dockerfile.
 If you have a README.md file in your repository, it is used in the repository as 
