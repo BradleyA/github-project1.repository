@@ -27,7 +27,7 @@ the log file indicating what the error was. If you need more information, scroll
 to the bottom of the screen to the logs section.
 
 #### Traffic
-  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=14&color=blue">  [Clones Table](images/clone.table.md)
+  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=7&color=blue">  [Clones Table](images/clone.table.md)
   * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=11&color=blue">  [Views Table](images/view.table.md)
 
 #### Author
@@ -47,7 +47,7 @@ to the bottom of the screen to the logs section.
 ## License
 MIT License
 
-Copyright (c) 2019  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
+Copyright (c) 2020  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
