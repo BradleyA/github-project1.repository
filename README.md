@@ -46,7 +46,7 @@ to the bottom of the screen to the logs section.
  * Be usable as non-root
  * Be easy to install and configure
 
-## License
+#### License
 MIT License
 
 Copyright (c) 2020  [Bradley Allen](https://www.linkedin.com/in/bradleyhallen)
