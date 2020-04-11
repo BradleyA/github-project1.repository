@@ -1,4 +1,9 @@
 # Automated build from GitHub code to Docker image on dockerhub
+[![Stable Release](https://img.shields.io/badge/Release-1.2-blue.svg)](https://github.com/BradleyA/dmonitor/releases/tag/1.2)
+[![GitHub commits](https://img.shields.io/github/commits-since/BradleyA/dmonitor/1.2.svg)](https://github.com/BradleyA/dmonitor/commits/)
+[![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
+[<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=7&color=blue">](images/clone.table.md)
+[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=14&color=blue">](images/view.table.md)
 
 #### If you like this repository, select in the upper-right corner, star, thank you.
 
@@ -27,10 +32,6 @@ Error: There was an issue with your image. Click the row to access the Builds
 Details screen. The banner at the top of the page displays the last sentence of 
 the log file indicating what the error was. If you need more information, scroll 
 to the bottom of the screen to the logs section.
-
-#### Traffic
-  * <img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=7&color=blue">  [Clones Table](images/clone.table.md)
-  * <img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=14&color=blue">  [Views Table](images/view.table.md)
 
 #### Author
 [<img id="twitter" src="images/twitter.png" width="50" a="twitter.com/bradleyaustintx/">
