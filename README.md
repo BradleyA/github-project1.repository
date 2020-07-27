@@ -3,7 +3,7 @@
 [![GitHub commits](https://img.shields.io/github/commits-since/BradleyA/github-project1.repository/0.0.svg)](https://github.com/BradleyA/github-project1.repository/commits/)
 [![MIT License](http://img.shields.io/badge/License-MIT-red.png)](LICENSE)
 [<img alt="Clones" src="https://img.shields.io/static/v1?label=Clones&message=7&color=blue">](images/clone.table.md)
-[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=14&color=blue">](images/view.table.md)
+[<img alt="Views" src="https://img.shields.io/static/v1?label=Views&message=175&color=blue">](images/view.table.md)
 
 Automated build from GitHub code to Docker image on dockerhub
 
