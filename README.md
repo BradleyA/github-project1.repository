@@ -4,8 +4,10 @@
 [![GitHub Commits Since](https://img.shields.io/github/commits-since/BradleyA/github-project1.repository/0.0?color=orange)](https://github.com/BradleyA/github-project1.repository/commits/)
 [![GitHub Last Commits](https://img.shields.io/github/last-commit/BradleyA/github-project1.repository.svg)](https://github.com/BradleyA/github-project1.repository/commits/)
 
+[![Open GitHub Issue](https://img.shields.io/badge/Open-Incident-brightgreen.svg)](https://github.com/BradleyA/github-project1.repository/issues/new/choose)
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/github-project1.repository?color=purple)](https://github.com/BradleyA/github-project1.repository/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/github-project1.repository?color=purple)](https://github.com/BradleyA/github-project1.repository/issues?q=is%3Aclosed+is%3Aissue)
+
 [<img alt="GitHub Clones" src="https://img.shields.io/static/v1?label=Clones&message=43&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/clone.table.md)
 [<img alt="GitHub Views" src="https://img.shields.io/static/v1?label=Views&message=175&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/github-project1.repository.svg)](https://github.com/BradleyA/github-project1.repository/)
