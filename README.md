@@ -18,9 +18,10 @@
 
 Automated build from GitHub code to Docker image on dockerhub
 
-#### If you like this repository, select in the upper-right corner, star, thank you.
+#### If you like this repository, select in the upper-right corner, [![GitHub stars](https://img.shields.io/github/stars/BradleyA/github-project1.repository.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/BradleyA/github-project1.repository/stargazers/), thank you.
 
 #### WARNING: These instructions are incomplete. Consider them as notes quickly drafted on a napkin rather than proper documentation!
+<img id="Construction" src="../images/construction-icon.gif" width="120">
 
 I have been using some of these for days, months, or years and just now uploading them. I need to complete some cleanup before it is shareable and documented . . .
 
