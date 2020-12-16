@@ -16,6 +16,7 @@ Unique   clones:  |       3       |       1       |      1  |      1  |      1
 Total clones: 7
 ###### Updated: 2020-01-04
 
-[Return to README](https://github.com/BradleyA/github-project1.repository)
-
 **Note**  Data collection stopped between 10/14 & 12/9
+
+
+[Return to README](https://github.com/BradleyA/github-project1.repository/blob/master/README.md)
