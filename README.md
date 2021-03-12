@@ -8,8 +8,8 @@
 [![GitHub Open Issues](https://img.shields.io/github/issues/BradleyA/github-project1.repository?color=purple)](https://github.com/BradleyA/github-project1.repository/issues?q=is%3Aopen+is%3Aissue)
 [![GitHub Closed Issues](https://img.shields.io/github/issues-closed/BradleyA/github-project1.repository?color=purple)](https://github.com/BradleyA/github-project1.repository/issues?q=is%3Aclosed+is%3Aissue)
 
-[<img alt="GitHub Repo Clones" src="https://img.shields.io/static/v1?label=Repo Clones&message=107&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/clone.table.md)
-[<img alt="GitHub Repo Views" src="https://img.shields.io/static/v1?label=Repo Views&message=228&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/view.table.md)
+[<img alt="GitHub Repo Clones" src="https://img.shields.io/static/v1?label=Repo_Clones&message=107&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/clone.table.md)
+[<img alt="GitHub Repo Views" src="https://img.shields.io/static/v1?label=Repo_Views&message=228&color=blueviolet">](https://github.com/BradleyA/github-project1.repository/blob/master/images/view.table.md)
 [![GitHub Size](https://img.shields.io/github/repo-size/BradleyA/github-project1.repository.svg)](https://github.com/BradleyA/github-project1.repository/)
 ![Language Bash](https://img.shields.io/badge/%20Language-bash-blue.svg)
 [![MIT License](http://img.shields.io/badge/License-MIT-blue.png)](LICENSE)
